@@ -5,3 +5,4 @@
 - 📫 How to reach me my social handles ig : @whosyashvardhan. X: @DkrDante
 
 - changes commit by ~Yashvardhan singh
+- now this change is using terminal
