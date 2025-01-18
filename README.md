@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Retro Games rehashed<br>👯 I’m looking to collaborate on pacman remake <br>🌱 I’m currently learning Typescript and Tailwind<br>💬 Ask me about why did the duck ran away<br>⚡ Fun fact everyone says duck duck go, but no one says duck duck stay
+🔭 I’m currently working on AI AND deep learning<br>👯 I’m looking to collaborate on nothing rn <br>🌱 I’m currently learning Typescript and Tailwind<br>💬 Ask me about why did the duck ran away<br>⚡ Fun fact everyone says duck duck go, but no one says duck duck stay
 
 
 ## 🌐 Socials:
