@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! 
-  My name is Yashvardhan singh and I'm a Full Stack Developer,ML engineer from 
-  Varanasi</h2>
+  My name is Yashvardhan singh and I'm a Full Stack Developer,ML engineer</h2>
 
 ###
 
