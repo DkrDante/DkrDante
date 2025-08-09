@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DkrDante/DkrDante/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DkrDante/output/snake.svg" alt="Snake animation" />
 
 ###
 
